@@ -1,0 +1,6 @@
+id,name@en,name@sv,dataType
+ageGroup,Age group,Åldersgrupp,string
+country,Country,Land,entity
+gender,Gender,Kön,entity
+date,Date,Datum,date
+year,Year,År,year

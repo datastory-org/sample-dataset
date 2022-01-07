@@ -1,0 +1,3 @@
+id,name@en,name@sv,description@en,unit
+income-per-person,Income per person,Inkomst per person,Per capita income is national income divided by population size.,dollar
+life-expectancy,Life Expectancy,Förväntad livslängd,Life expectancy is the key metric for assessing population health. It tells us the average age of death in a population.,years
